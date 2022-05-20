@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seffaflik.Epias.Test", "Seffaflik.Epias.Test\Seffaflik.Epias.Test.csproj", "{A780AF70-02FC-46D1-972C-15F7DD5CFB0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A780AF70-02FC-46D1-972C-15F7DD5CFB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A780AF70-02FC-46D1-972C-15F7DD5CFB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A780AF70-02FC-46D1-972C-15F7DD5CFB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A780AF70-02FC-46D1-972C-15F7DD5CFB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EE86DE9-E7D6-425A-92B1-D7AA6F0D133B}
+	EndGlobalSection
+EndGlobal
